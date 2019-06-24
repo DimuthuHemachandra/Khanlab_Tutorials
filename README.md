@@ -1,11 +1,14 @@
 # Khanlab_Tutorials
 
-Linux ? how to get access through windows (virtual machine) 
-? how to connect/mount/access data on graham
-Submitting a normal/bids app job/ neuroglia wrappers 
-? how to type/run bids app
-Singularity containers/docker
-Jupyter notebooks with intro to python
+1.Linux ? how to get access through windows (virtual machine) ?
+
+2.how to connect/mount/access data on graham
+
+3.Submitting a normal/bids app job/ neuroglia wrappers ?
+
+4.how to run bids app/Singularity containers/docker
+
+5.Jupyter notebooks with intro to python
 Python Nipype/containers
 Matlab+python code writing on graham
 Data visualization+Data formats
