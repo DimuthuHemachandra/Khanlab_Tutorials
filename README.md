@@ -33,6 +33,12 @@
 11.Data processing & analysis
 
 12.Connectome workbench - Roy
+
+13. 3D printing - Trisan
+
+14. Mrtrix
+
+15. Basic image registration
  
 
 ## Current thoughts 
