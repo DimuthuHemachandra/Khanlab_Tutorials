@@ -9,6 +9,7 @@ Python is increasingly becoming common-place in the analysis of neuroimaging dat
 * Perform simple computations in Python
 * Manipulate and transform neuroimaging data in Python
 * Become familiar with neuroimaging packages used in Python
+* Set up a virtual environment with jupyter
 
 
 ## Task:
