@@ -1,0 +1,4 @@
+[submodule "python_intro"]
+	path = 03_python_intro/scwg2018_python_neuroimaging
+	url = https://github.com/kaitj/scwg2018_python_neuroimaging
+	branch = khanlab_tutorial
