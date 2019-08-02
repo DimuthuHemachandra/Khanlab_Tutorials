@@ -2,11 +2,11 @@
 
 1.Linux ? how to get access through windows (virtual machine) - Ali and Uzair (6th September)
 
-  Windows sub-system
+ Windows sub-system
 
 2.How to access /mount/access data on graham - Hossein, Nick and Ali (13th September)
 
-  SFTP, SSHF, globus, WINSCP
+ SFTP, SSHF, globus, WINSCP
 
 3.Jupyter notebooks with intro to python -(Jason) . (20th September)
 
@@ -16,7 +16,7 @@
 
  Working with images/data formats
  
-5. Intro to Bash and commandline tools - Roy and Dimuthu (4th October)
+5.Intro to Bash and commandline tools - Roy and Dimuthu (4th October)
 
 6.Singularity and Docker - Ying Li
 
@@ -33,6 +33,8 @@
 11.Data processing & analysis
 
 12.Connectome workbench - Roy (8th November)
+
+ Paper-ready vizualization of cortical surface data
 
 13. 3D printing - Trisan, Farah (15th November)
 
