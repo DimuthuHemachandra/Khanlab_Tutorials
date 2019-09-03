@@ -1,20 +1,32 @@
-# Khanlab_Tutorials
+# Khanlab Tutorial 1: Accessing Linux & Compute Canada Data
 
-1.Linux ? how to get access through windows (virtual machine) ?
+## Objective:
 
-2.how to connect/mount/access data on graham
+Review the available options for connecting to linux systems, and best practices for organizing and accessing your data on Compute Canada
 
-3.Submitting a normal/bids app job/ neuroglia wrappers ?
+## At the end of this tutorial:
 
-4.how to run bids app/Singularity containers/docker
+* You will be able to do ..........
+* You will be able to do ..........
+* You will be able to do ..........
 
-5.Jupyter notebooks with intro to python
-Python Nipype/containers
-Matlab+python code writing on graham
-Data visualization+Data formats
-Data processing & analysis
-Connectome workbench
- 
 
-*Current thoughts 
-Have the tutorials done on friday mornings starting at the beginning of september. Each tutorial takes around 2 hours with a 25 minutes break during the 2 hours 
+## Task:
+
+Brief description about the task/s that you are planning to do during the tutorial. You can list them in bullet form if there are multiple/sub tasks.
+
+## Data:
+
+Link to sample data to work with
+
+## Software: 
+
+List of software that you need to have before hand and instructions about how to install them.
+
+
+## Notes:
+
+Special notes or instructions for the participants.
+
+
+
