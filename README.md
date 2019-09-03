@@ -1,6 +1,6 @@
 # Khanlab_Tutorials
 
-1.Linux ? how to get access through windows (virtual machine) - Ali and Uzair (6th September)
+1.Linux ? how to get access through windows (virtual machine) - Ali and Uzair (13th September)
 
  Windows sub-system
 
