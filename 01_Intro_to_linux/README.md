@@ -43,6 +43,9 @@ n/a
   * How to use SSH: https://docs.computecanada.ca/wiki/SSH
   * Intro to Linux: https://docs.computecanada.ca/wiki/Linux_introduction
 
+* Complete the github hello world
+ https://guides.github.com/activities/hello-world/
+
 ## Notes:
 
 Special notes or instructions for the participants.
