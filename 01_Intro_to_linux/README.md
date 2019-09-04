@@ -18,11 +18,15 @@ You will know:
 ## Tasks:
 
 * demo of logging on from different OS's
+ * Windows (Uzair)
+ * 
 * demo of editing files from the command-line
 * demo of basic git synchronization
+ * clone, commit, push, pull
 * demo of Globus
 * demo of passwordless SSH + SSHFS
 * demo of setting up your project workspace on graham
+* demo of ROAMS
 
 ...
 
@@ -42,6 +46,9 @@ n/a
 * Read through tutorials on SSH and Linux if you are unfamiliar:
   * How to use SSH: https://docs.computecanada.ca/wiki/SSH
   * Intro to Linux: https://docs.computecanada.ca/wiki/Linux_introduction
+
+* Complete the github hello world
+ https://guides.github.com/activities/hello-world/
 
 ## Notes:
 
