@@ -12,6 +12,10 @@
 
  Working with images/data formats
 
+* How to get your data, convert (dicom server, cfmm2tar etc.. )
+
+* Intro to Git & version control
+
 4.Intro to Matlab - Hossein and Tristan (27th September)
 
  Working with images/data formats
@@ -42,6 +46,9 @@
 
 15. Basic image registration (29th November)
  
+
+*
+
 
 ## Current thoughts 
 
